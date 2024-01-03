@@ -1,0 +1,21 @@
+# intellij, vscode
+.idea/
+.vscode/
+venv
+.env
+
+# build artifacts, mac
+__pycache__/
+*.pyc
+.DS_Store
+.envrc
+
+# java
+*.class
+
+# App files
+log/
+conversation_history.txt
+
+chat_data
+.streamlit/
